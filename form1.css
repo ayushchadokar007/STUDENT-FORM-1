@@ -1,0 +1,48 @@
+.container{
+    width: 400px;
+    heigth: 800px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: skyblue;
+    margin: auto;
+    padding: 10px;
+}
+
+.title{
+    text-align: center;
+}
+
+label{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+input{
+    width: 385px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#gender{
+    width: auto;
+    height: auto;
+}
+
+textarea{
+    width:auto;
+}
+
+#reg{
+    border: 1px solid rgb(54, 201, 54);
+    width: 395px;
+    heigth: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 650;
+    background-color: rgb(43, 197, 43);
+    margin:auto;
+    padding: 5px;
+}
+
+
